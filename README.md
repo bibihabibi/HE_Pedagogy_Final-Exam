@@ -23,10 +23,24 @@ Technologies
 Important Limitations
 This is an offline demonstration with fictional student data. Its support indicators use fixed, transparent rules, and suggested messages use predefined templates. No live AI model is integrated, and the prototype should not be used for real student evaluation or consequential decisions. Secure authentication, institutional data integration, and production-grade privacy controls are future work.
 Team
-- Bakhytnur Utegenova - Frontend development, HTML/CSS implementation, UI/UX design, and responsive interface development.
-- Yerzhan Tugralin - JavaScript development, application logic, interactive functionality, data simulation, testing, and debugging.
-- Alina Yuldazbayeva - Educational problem analysis, pedagogical research, learning theories, and constructive alignment.
-- Yerkezhan Akhmadiyeva - Research on accessibility, equity, inclusion, ethical considerations, and human–AI collaboration.
-- Dana Kossymzhanova - 	Academic poster design, project documentation, literature review, evaluation methodology, and presentation preparation.
-Academic Context
+- Bakhytnur Utegenova:
+• Participated in brainstorming and researching existing educational support systems.
+• Developed and finalized the prototype, including the Learning Landscape feature.
+• Contributed to organizing the poster content and presenting the main features.
+- Yerzhan Tugralin:
+• Contributed to the initial research and development of the project concept.
+• Implemented core functions, including student risk identification and monitoring.
+• Assisted in reviewing the poster and explaining the technical aspects of the product.
+- Alina Yuldazbayeva:
+• Participated in developing the project idea and researching student support needs.
+• Contributed to prototype development by adding the messaging system, Q&A section, and student progress tracking.
+• Assisted in reviewing and improving the poster content.
+- Yerkezhan Akhmadiyeva:
+• Participated in developing the project idea and researching relevant educational challenges.
+• Contributed to prototype evaluation by suggesting improvements to its usability and functionality.
+• Designed and finalized the poster, including its layout, structure, and explanatory text.
+- Dana Kossymzhanova:
+• Participated in developing the project concept and researching its pedagogical relevance.
+• Contributed to prototype development by providing feedback on features and student support mechanisms.
+• Improved the poster design, revised the content, and added explanatory text.
 The project explores constructive alignment, formative assessment, equitable student support, and responsible human–technology collaboration in higher education. See the accompanying academic poster for research background, references, and evaluation considerations.
