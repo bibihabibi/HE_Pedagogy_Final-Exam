@@ -24,8 +24,8 @@ Important Limitations
 This is an offline demonstration with fictional student data. Its support indicators use fixed, transparent rules, and suggested messages use predefined templates. No live AI model is integrated, and the prototype should not be used for real student evaluation or consequential decisions. Secure authentication, institutional data integration, and production-grade privacy controls are future work.
 Team
 - Bakhytnur Utegenova - Frontend development, HTML/CSS implementation, UI/UX design, and responsive interface development.
-- Alina Yuldazbayeva - JavaScript development, application logic, interactive functionality, data simulation, testing, and debugging.
-- Yerzhan Tugralin - Educational problem analysis, pedagogical research, learning theories, and constructive alignment.
+- Yerzhan Tugralin - JavaScript development, application logic, interactive functionality, data simulation, testing, and debugging.
+- Alina Yuldazbayeva - Educational problem analysis, pedagogical research, learning theories, and constructive alignment.
 - Yerkezhan Akhmadiyeva - Research on accessibility, equity, inclusion, ethical considerations, and human–AI collaboration.
 - Dana Kossymzhanova - 	Academic poster design, project documentation, literature review, evaluation methodology, and presentation preparation.
 Academic Context
